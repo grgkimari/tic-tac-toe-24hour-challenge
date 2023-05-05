@@ -1,0 +1,11 @@
+.Box {
+    color: whitesmoke;
+    background-color: black;
+    width: 33.33%;
+    height: 30vw;
+    font-size: 2rem;
+}
+
+.Box:hover {
+    background-color: #333;
+}
